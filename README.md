@@ -12,7 +12,7 @@
   
 <h1>🤝🏻 Connect with Me</h2>
 
--  ![Twitter Follow](https://img.shields.io/twitter/url?logoColor=pink&style=social&url=https%3A%2F%2Ftwitter.com%2Firisval06)
+-  ![Twitter Follow](https://img.shields.io/twitter/url?logoColor=pink&style=social&url=https://twitter.com/Karevalo13)
 -  [![Linkedin](https://img.shields.io/badge/-LinkedIn-red?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-arevalo-50b703181/)
 
 
