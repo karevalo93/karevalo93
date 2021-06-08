@@ -1,6 +1,5 @@
-<img align='right' src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/sprites/zelda.gif' width='20%'> 
-
-### Hi there! , I'm Kevin ✌🏼
+<img align='right' src='https://media.giphy.com/media/ZRuKDS1t4peb6/giphy.gif' width='20%'> 
+<h2> Hi there! , I'm Kevin ✌🏼</h2>
 
 <!--
 **karevalo93/karevalo93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
