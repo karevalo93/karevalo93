@@ -30,8 +30,7 @@
 **📫 Reach me at:**<br>
 
 [![Linkedin: Mohit Patil](https://img.shields.io/badge/-KevinArevalo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevin-arevalo-50b703181/)](https://www.linkedin.com/in/kevin-arevalo-50b703181/)
-<a href="https://instagram.com/_mohitp_" target="_blank"><img src="https://img.shields.io/badge/@_mohitp98_-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-[![Twitter: Mohit Patil](https://img.shields.io/twitter/follow/MP_1298?style=social)](https://twitter.com/MP_1298)
+[![Twitter: Mohit Patil](https://img.shields.io/twitter/follow/Karevalo13?style=social)](https://twitter.com/Karevalo13)
 [![GitHub: Mohit Patil](https://img.shields.io/github/followers/Mohitp98?label=Mohitp98&style=social)](https://github.com/Mohitp98)
 
 <div align="center">
