@@ -1,3 +1,5 @@
+<img align='right' src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/sprites/zelda.gif' width='20%'> 
+
 ### Hi there! , I'm Kevin ✌🏼
 
 <!--
