@@ -10,18 +10,17 @@
 
 ```javascript
 const aboutMe = {
-   pronouns: "he" | "him",
    code: [Javascript, Python, Java],
    technologies: {
-      frontEnd: {
-         js: ["HTML", "CSS", "React", ],
-         css: ["Bootstrap"]
-      },
+      frontEnd: ['HTML', 'CSS', 'JavaScript', 'Boostrap'],
       backEnd: {
-         js: ["Node", "Express"],
-         python: ["Django", "Flask"]
+         js: ['Node', 'Express'],
+         python: ['Django', 'Flask']
       },
-      databases: ["MongoDB", "mySQL", "SQLServer", "SQLite"],
+      databases: ['MongoDB', 'mySQL', 'SQLServer', 'SQLite', 'PostgreSQ'],
+      devops: ['Docker', 'Heroku'],
+      tools: ['GIT', 'GitHub'],
+      misc: ['SCRUM', 'GNU/Linux']
    },
    currentOccupation: ["I'm an iluminator in Lumu technologies"],
 };
