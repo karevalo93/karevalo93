@@ -31,13 +31,8 @@
 
 [![Linkedin: Mohit Patil](https://img.shields.io/badge/-KevinArevalo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevin-arevalo-50b703181/)](https://www.linkedin.com/in/kevin-arevalo-50b703181/)
 [![Twitter: Mohit Patil](https://img.shields.io/twitter/follow/Karevalo13?style=social)](https://twitter.com/Karevalo13)
-[![GitHub: Mohit Patil](https://img.shields.io/github/followers/Mohitp98?label=Mohitp98&style=social)](https://github.com/Mohitp98)
 
-<div align="center">
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Mohitp98.visitor-badge)
-
-</div>  
 ### - Podcast ⚡️
 <p align="center">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/streaming/podcast.svg"> 
