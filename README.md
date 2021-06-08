@@ -33,6 +33,12 @@
 -  [![Linkedin](https://img.shields.io/badge/-LinkedIn-red?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-arevalo-50b703181/)
 
 
+### - Podcast ⚡️
+<p align="center">
+  <img src="https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80ZThlMWQ3NC9wb2RjYXN0L3Jzcw/episode/YWNkMDI3NTQtZDJhMC00ZjQ2LThlM2QtZjQ3NmYzYzFjZjg0"> 
+</p>
+
+
 
 
 ---
