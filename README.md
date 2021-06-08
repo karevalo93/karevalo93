@@ -27,12 +27,18 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   
-<h1>🤝🏻 Connect with Me</h2>
+**📫 Reach me at:**<br>
 
--  ![Twitter Follow](https://img.shields.io/twitter/url?logoColor=pink&style=social&url=https://twitter.com/Karevalo13)
--  [![Linkedin](https://img.shields.io/badge/-LinkedIn-red?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-arevalo-50b703181/)
+[![Linkedin: Mohit Patil](https://img.shields.io/badge/-Mohitp98-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevin-arevalo-50b703181/)](https://www.linkedin.com/in/mp98/)
+<a href="https://instagram.com/_mohitp_" target="_blank"><img src="https://img.shields.io/badge/@_mohitp98_-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+[![Twitter: Mohit Patil](https://img.shields.io/twitter/follow/MP_1298?style=social)](https://twitter.com/MP_1298)
+[![GitHub: Mohit Patil](https://img.shields.io/github/followers/Mohitp98?label=Mohitp98&style=social)](https://github.com/Mohitp98)
 
+<div align="center">
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Mohitp98.visitor-badge)
+
+</div>  
 ### - Podcast ⚡️
 <p align="center">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/streaming/podcast.svg"> 
