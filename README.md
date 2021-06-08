@@ -32,8 +32,8 @@ const aboutMe = {
 [![Twitter: Mohit Patil](https://img.shields.io/twitter/follow/Karevalo13?style=social)](https://twitter.com/Karevalo13)
 
 
-### - Podcast ⚡️
-<p align="center">
+**Podcast ⚡️**
+<p align="left">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/streaming/podcast.svg"> 
 </p>
 
