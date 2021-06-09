@@ -1,5 +1,5 @@
-<img align='left' src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/sprites/LinkFront_Beat.gif' width='20%'>  
-<img align='right' src='https://media.giphy.com/media/ZRuKDS1t4peb6/giphy.gif' width='20%'> 
+
+<img align='right' src='https://media.giphy.com/media/ZRuKDS1t4peb6/giphy.gif' width='30%'> 
 <h2> Hi there! , I'm Kevin ✌🏼</h2>
 
 - 💻 I'm a passionate front-end developer in progress.
