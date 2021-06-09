@@ -22,14 +22,23 @@
 <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
 </div>
 
-<h5>Back-end</h5>
+<h5>Databases</h5>
 <div>
    <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
    </div>
 
+<h5>Devops</h5>
+<div>
+   ![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
+![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
+</div>
 
-
+<h5>Tools</h5>
+<div>
+   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+</div>
 
 
 ```javascript
