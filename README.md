@@ -1,9 +1,6 @@
 
 <img align='right' src='https://media.giphy.com/media/ZRuKDS1t4peb6/giphy.gif' width='30%'> 
 <h2> Hi there! , I'm Kevin ✌🏼</h2>
-
----
-
 - 💻 I'm a passionate front-end developer in progress.
 - 🌱 I'm currently learning
 - 💬 Ask me about anything, I'm happy to help.
