@@ -6,8 +6,7 @@
 - 💬 Ask me about anything, I'm happy to help.
 
 **📫 Reach me at:**<br/>
-[![Linkedin: Mohit Patil](https://img.shields.io/badge/-KevinArevalo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevin-arevalo-50b703181/)](https://www.linkedin.com/in/kevin-arevalo-50b703181/)      
-[![Twitter: Mohit Patil](https://img.shields.io/twitter/follow/Karevalo13?style=social)](https://twitter.com/Karevalo13)
+[![Linkedin: Mohit Patil](https://img.shields.io/badge/-KevinArevalo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevin-arevalo-50b703181/)](https://www.linkedin.com/in/kevin-arevalo-50b703181/) [![Twitter: Mohit Patil](https://img.shields.io/twitter/follow/Karevalo13?style=social)](https://twitter.com/Karevalo13)
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
