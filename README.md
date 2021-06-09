@@ -10,7 +10,7 @@
 
 <h5>Languages</h5>
 <div>
-   <img src="https://img.shields.io/badge/-Java-06305b?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-Python%203-black?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
+   <img src="https://img.shields.io/badge/-Java-06305b?style=flat&logo=java&logoColor=white">  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/python.png" alt=python width="60" height="60"/> <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
 </div>
 <h5>Front-end</h5>
 <div>
