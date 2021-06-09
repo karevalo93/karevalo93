@@ -31,7 +31,7 @@
 <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 
-<img align='right' src='https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fes%2Fver%2Fryosuke-takahashi-initial-d-anime-guy-cigarette-smoking-gif-16618987&psig=AOvVaw2w2MbMQgiUX5oDR9sQmsvr&ust=1623290391016000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLiPmIu6ifECFQAAAAAdAAAAABAI' width='40%'> 
+<img align='right' src='https://media.tenor.com/images/da17c381524c404e9b00dc16d8546c9b/tenor.gif' width='40%'> 
 <h5>Databases</h5>
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
