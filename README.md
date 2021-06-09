@@ -50,7 +50,7 @@
 
 
 
-<a href= https://github.com/rahulbanerjee26?tab=repositories&q=&type=&language=reactjs&sort=> <img width ='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
+<a href= https://github.com/rahulbanerjee26?tab=repositories&q=&type=&language=reactjs&sort=10> <img width ='32px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
 
 
 **📫 Reach me at:**<br>
