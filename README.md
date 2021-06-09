@@ -1,5 +1,5 @@
 
-<img align='right' src='https://media.giphy.com/media/ZRuKDS1t4peb6/giphy.gif' width='30%'> 
+<img align='right' src='https://media.giphy.com/media/ZRuKDS1t4peb6/giphy.gif' width='40%'> 
 <h2> Hi there! , I'm Kevin ✌🏼</h2>
 
 - 💻 I'm a passionate front-end developer in progress.
@@ -20,6 +20,7 @@
  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 	<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 
+	 <img align='right' src='https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fes%2Fver%2Fryosuke-takahashi-initial-d-anime-guy-cigarette-smoking-gif-16618987&psig=AOvVaw2w2MbMQgiUX5oDR9sQmsvr&ust=1623290391016000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLiPmIu6ifECFQAAAAAdAAAAABAI' width='40%'> 
 <h5>Front-end</h5>
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
