@@ -13,7 +13,13 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 	<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+	<p align="center">
+**📫 Reach me at:**<br>
 
+[![Linkedin: Mohit Patil](https://img.shields.io/badge/-KevinArevalo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevin-arevalo-50b703181/)](https://www.linkedin.com/in/kevin-arevalo-50b703181/)      
+[![Twitter: Mohit Patil](https://img.shields.io/twitter/follow/Karevalo13?style=social)](https://twitter.com/Karevalo13)
+
+</p>
 <h5>Front-end</h5>
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
@@ -41,12 +47,13 @@
 </div>
 
 <br><br>
+	<p align="left">
 **📫 Reach me at:**<br>
 
 [![Linkedin: Mohit Patil](https://img.shields.io/badge/-KevinArevalo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kevin-arevalo-50b703181/)](https://www.linkedin.com/in/kevin-arevalo-50b703181/)      
 [![Twitter: Mohit Patil](https://img.shields.io/twitter/follow/Karevalo13?style=social)](https://twitter.com/Karevalo13)
 
-
+</p>
 **Podcast ⚡️**
 <p align="left">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/streaming/podcast.svg"> 
