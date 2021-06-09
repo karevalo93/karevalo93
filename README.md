@@ -49,7 +49,7 @@
 </div>
 
 
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/netlify.svg' alt='netlify' height='40'>](https://opencollective-production.s3.us-west-1.amazonaws.com/ff0a6e30-eab3-11e9-a22e-83df461207f7.png)  
 
 
 
