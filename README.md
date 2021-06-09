@@ -51,9 +51,4 @@
 <br/>
 <a href="https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80ZThlMWQ3NC9wb2RjYXN0L3Jzcw/episode/YWNkMDI3NTQtZDJhMC00ZjQ2LThlM2QtZjQ3NmYzYzFjZjg0?sa=X&ved=0CAUQkfYCahcKEwjYjtb4tYnxAhUAAAAAHQAAAAAQGA" target="_blank"> <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/streaming/podcast.svg"> </a>
 
-
-
-
-
 ---
-<h2><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=karevalo93&show_icons=true&locale=en&layout=compact" alt="karevalo93"/></h2>
