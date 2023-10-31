@@ -2,9 +2,8 @@
 
 <h2> Hi there! , I'm Kevin ✌🏼</h2>
 
-- 💻 I'm a passionate front-end developer in progress.
+- 💻 I'm a passionate front-end developer.
 - 🌱 I'm currently learning
-- 💬 Ask me about anything, I'm happy to help.
 
 **📫 Reach me at:**
 <br/>
